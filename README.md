@@ -1,8 +1,8 @@
-# CODTECH INTERNSHIP
+## CODTECH INTERNSHIP
 
 *COMPANY*: CODTECH IT SOLUTIONS  
-*NAME*: [Komal Bhaskar Patil]  
-*INTERN ID*: [CT06DY2142]  
+*NAME*: [Kajal Balu Bad]  
+*INTERN ID*: [CT06DY2158]  
 *DOMAIN*: [Python Programming]  
 *DURATION*: 6 Weeks  
 *MENTOR*: [Neela Santosh Kumar]  
