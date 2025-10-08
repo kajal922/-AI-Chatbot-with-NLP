@@ -60,3 +60,5 @@ Run the script:
 python chatbot.py
 
 Start chatting with the bot! Type quit to exit.
+<img width="1903" height="1072" alt="Image" src="https://github.com/user-attachments/assets/9ae5b004-9b52-4532-ae92-9dfad4fc628e" />
+<img width="1902" height="1071" alt="Image" src="https://github.com/user-attachments/assets/57bb3b94-a1ff-4353-835f-721fe3f88e0e" />
